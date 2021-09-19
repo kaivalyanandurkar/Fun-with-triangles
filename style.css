@@ -135,6 +135,7 @@ input{
 
 .footer-heading{
     color: var(--primary-color);
+    padding: 0.7rem;
 }
 
 .side{
