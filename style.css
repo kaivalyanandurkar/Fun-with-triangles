@@ -21,25 +21,29 @@ body {
     color:var(--secondary-color);
 }
 
+#head{
+    margin-bottom: 2rem;
+}
+
 nav {
     background-color: var(--secondary-color);
-    padding: 1rem;
+    padding: 0.5rem;
 }
 .nav-pills {
     text-align: right;
-    padding: 1rem;
+    padding: 2rem;
 }
 .nav-heading {
     color: var(--primary-color);
     text-align: left;
-    padding: 0.5rem;
+    padding: 0.1rem;
     font-weight: bold;
 
 }
 
 .nav-links , .footer-links {
     display: inline;
-    margin: 1rem;
+    margin: 2rem;
   
 }
 
@@ -64,7 +68,7 @@ main {
     margin-top: 2rem;
 }
 .quiz-container{
-    margin-bottom: 2rem;
+    margin-bottom: 7rem;
 }
 
 p {
@@ -84,11 +88,11 @@ button {
 }
 label{
     color:var(--secondary-color);
-    margin-right:0.8rem;
+    margin-right:0.6rem;
     
 }
 .question{
-    font-weight: 600;
+    font-weight: 800;
 }
 .formula{
     margin-top:0.5rem;
