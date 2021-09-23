@@ -43,13 +43,14 @@ nav {
 
 .nav-links , .footer-links {
     display: inline;
-    margin: 2rem;
+    margin: 0.3rem;
   
 }
 
 .link {
     color:var(--primary-color);
     text-decoration: none;
+    font-size: small;
   
 }
  
@@ -130,7 +131,7 @@ input{
      background-color: var(--secondary-color);
      width:100%;
      text-align: center;
-     margin-top: 10rem;
+     margin-top: 15rem;
      padding: 1rem;
      position: absolute;
      height: 100px;
@@ -157,3 +158,5 @@ input{
        
       
    }
+
+   
